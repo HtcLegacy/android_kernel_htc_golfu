@@ -46,9 +46,9 @@ int __init golfu_wifi_init(void);
 //#define MSM_PMEM_MDP_SIZE 0x1000000 /* (16 mB) */
 //#define MSM_PMEM_ADSP_SIZE 0x1000000 /* (16 mB) */
 //#define MSM_PMEM_AUDIO_SIZE 0x0100000 /* (1 mB) */
-#define MSM_PMEM_MDP_SIZE       0x1400000 /* (16 mB) */
+#define MSM_PMEM_MDP_SIZE       0x1000000 /* (16 mB) */
 #define MSM_PMEM_ADSP_SIZE      0x1000000 /* (16 mB) */
-#define MSM_PMEM_AUDIO_SIZE     0x0200000 /* (1 mB) */
+#define MSM_PMEM_AUDIO_SIZE     0x0100000 /* (1 mB) */
 
 #define PMEM_KERNEL_EBI1_SIZE	0x3A000
 
